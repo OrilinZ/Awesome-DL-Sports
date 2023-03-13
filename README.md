@@ -11,6 +11,7 @@ Deep learning on Sports: Surveys, Datasets, Algorithms
   - [Datasets](#datasets)
     - [Soccer](#soccer-1)
     - [Basketball](#basketball)
+    - [Multiple](#multiple)
   - [Algorithms](#algorithms)
 
 ## Surveys
@@ -107,8 +108,44 @@ CVPRW 2022. [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVSports/ht
 ### Basketball
 **Consensus-based trajectory estimation for ball detection in calibrated cameras systems** \
 *Pascaline Parisot, Christophe De Vleeschouwer* \
-J Real Time Image Process 2019. [[Paper](https://link.springer.com/article/10.1007/s11554-016-0638-3)]
+J Real Time Image Process 2008(2019). [[Paper](https://link.springer.com/article/10.1007/s11554-016-0638-3)]
 
+**What Players do with the Ball: A Physically Constrained Interaction Modeling** \
+*Andrii Maksai, Xinchao Wang, Pascal Fua* \
+CVPR 2016. [[Paper](https://ieeexplore.ieee.org/document/7780480)][[Data](https://github.com/cvlab-epfl/balltracking)]
 
+**Detecting events and key actors in multi-person videos**\
+*Vignesh Ramanathan, Jonathan Huang, Sami Abu-El-Haija, Alexander Gorban, Kevin Murphy, Li Fei-Fei* \
+CVPR 2016. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ramanathan_Detecting_Events_and_CVPR_2016_paper.html)][[Data](http://com.appspot.basketballattention.qirina.com/)]
+
+**Am I a Baller? Basketball Performance Assessment from First-Person Videos**\
+*Gedas Bertasius, Hyun Soo Park, Stella X. Yu, Jianbo Shi*\
+ICCV 2017. [[Paper](https://openaccess.thecvf.com/content_iccv_2017/html/Bertasius_Am_I_a_ICCV_2017_paper.html)]
+
+**Scene-specific classifier for effective and efficient team sport players detection from a single calibrated camera**\
+*Pascaline Parisot, Christophe De Vleeschouwer* \
+CVIU 2017. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314217300036)][[Data](https://www.kaggle.com/datasets/gabrielvanzandycke/spiroudome-dataset)]
+
+**FINE-GRAINED ACTION RECOGNITION ON A NOVEL BASKETBALL DATASET**\
+*Xiaofan Gu, Xinwei Xue, Feng Wang* \
+CVPR 2016. [[Paper](https://ieeexplore.ieee.org/abstract/document/9053928/)]
+
+**NPU RGB+D Dataset and a Feature-Enhanced LSTM-DGCN Method for Action Recognition of Basketball Players**\
+*Chunyan Ma, Ji Fan, Jinghao Yao and Tao Zhang* \
+MDPI Applied Science 2021. [[Paper](https://www.mdpi.com/2076-3417/11/10/4426)][[Data](https://github.com/Medjed46/NPU-RGBD-Basketball-Dataset)]
+
+**DeepSportradar-v1: Computer Vision Dataset for Sports Understanding with High Quality Annotations**\
+*Gabriel Van Zandycke, Vladimir Somers, Maxime Istasse, Carlo Del Don, Davide Zambrano* \
+MMSports 2022. [[Paper](https://dl.acm.org/doi/abs/10.1145/3552437.3555699)][[Data](https://github.com/DeepSportRadar)]
+
+### Multiple
+
+**HAA500: Human-Centric Atomic Action Dataset with Curated Videos**\
+*Jihoon Chung, Cheng-hsin Wuu, Hsuan-ru Yang, Yu-Wing Tai, Chi-Keung Tang* \
+ICCV 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Chung_HAA500_Human-Centric_Atomic_Action_Dataset_With_Curated_Videos_ICCV_2021_paper.html)][[Data](https://www.cse.ust.hk/haa/)]
+
+**ASPset: An outdoor sports pose video dataset with 3D keypoint annotations**\
+*Aiden Nibali, Joshua Millward, ZhenHea, StuartMorgan* \
+IVC 2021. [[Paper](https://www.sciencedirect.com/science/article/pii/S0262885621001013)][[Data](https://github.com/anibali/aspset-510)]
 
 ## Algorithms
